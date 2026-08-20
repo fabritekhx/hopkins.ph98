@@ -1,0 +1,6 @@
+{
+  "name": "Hopkins Photography - Anthony Hopkins (Quito, Ecuador)",
+  "description": "Portafolio fotográfico profesional y cinematográfico de Anthony Hopkins (@hopkins.ph98) en Quito, Ecuador. Retratos, moda urbana, fotografía creativa y documental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
